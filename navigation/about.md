@@ -110,12 +110,11 @@ Here is what I did at those places
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
+Everything for me, as for many others, revolves around family friends and love.
 
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
-
+- my mom told me I was Greek German and French, but i was born in California.
+-My family size is pretty average but I have alot of family heritage that goes back to around the cold war. Most of my great granpas participtaed in wars like world 2 and the cold war.
+- My family loves playing board games and hanging out watching movies.
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
