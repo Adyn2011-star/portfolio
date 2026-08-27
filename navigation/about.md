@@ -112,7 +112,7 @@ Here is what I did at those places
 Everything for me, as for many others, revolves around family friends and love.
 
 - my mom told me I was Greek German and French, but i was born in California.
--My family size is pretty average but I have alot of family heritage that goes back to around the cold war. Most of my great granpas participtaed in wars like world 2 and the cold war.
+-My family size is pretty average but I have alot of family heritage that goes back to around the cold war. Most of my great granpas participtaed in wars like world 2 and the civil war.
 - My family loves playing board games and hanging out watching movies. 
 <comment>
 
