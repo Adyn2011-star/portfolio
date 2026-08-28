@@ -7,8 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-Here are some places I have lived.
-
+places with permenent residence 
 <comment>
 Flags are made using Wikipedia images
 </comment>
@@ -61,7 +60,6 @@ ext
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-
         ];
 
       
@@ -112,7 +110,7 @@ Here is what I did at those places
 
 Everything for me, as for many others, revolves around family friends and love.
 
-- my mom told me I was Greek German and French, but i was born in California.
+- my mom told me I was Greek German and French, but I was born in California.
 -My family size is pretty average but I have alot of family heritage that goes back to around the civi war. Most of my great granpas participtaed in wars like world 2 and the civil war.
 - My family loves playing board games and hanging out watching movies. 
 <comment>
