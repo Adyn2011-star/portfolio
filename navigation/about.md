@@ -60,7 +60,6 @@ ext
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-     {'flag": "5/5c/Flag_of_Greece.svg}
         ];
     
 
