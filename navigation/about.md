@@ -7,7 +7,7 @@ comments: true
 
 ## As a conversation Starter
 
-places with permenent residence 
+places with permenent residence.
 <comment>
 Flags are made using Wikipedia images
 </comment>
