@@ -60,7 +60,9 @@ ext
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
+     {'flag": "5/5c/Flag_of_Greece.svg}
         ];
+    
 
       
 
@@ -113,5 +115,8 @@ Everything for me, as for many others, revolves around family friends and love.
 - my mom told me I was Greek German and French, but I was born in California.
 -My family size is pretty average but I have alot of family heritage that goes back to around the civi war. Most of my great granpas participtaed in wars like world 2 and the civil war.
 - My family loves playing board games and hanging out watching movies. 
-<comment>
+<comment> 
+### picture of me 
+https://drive.google.com/file/d/1kMFzEUr0PcDJcnrxmFF4qvZP9uv3avil/view?usp=sharing
+
 
