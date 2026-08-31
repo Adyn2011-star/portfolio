@@ -116,7 +116,7 @@ Everything for me, as for many others, revolves around family friends and love.
 - My family loves playing board games and hanging out watching movies. 
 <comment> 
 <comment>
-Gallery of Pics, scroll to the right for more ...
+Gallery of Pics, scroll to the right for more  ...
 </comment>
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/adynpicture .png" alt="Image 1">
