@@ -13,7 +13,7 @@ import PlatformerMini from './PlatformerMini.js';
 // Import PlatformerMini (game-in-game)
 
 class GameLevelDesert {
-<<<<<<< HEAD
+
  constructor(gameEnv) {
    let width = gameEnv.innerWidth;
    let height = gameEnv.innerHeight;
@@ -731,7 +731,6 @@ class GameLevelDesert {
     } // End of GameLevelDesert constructor
 
 } // End of GameLevelDesert class
->>>>>>> upstream/main
 
 
 export default GameLevelDesert;
