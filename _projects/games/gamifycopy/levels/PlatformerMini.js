@@ -24,7 +24,7 @@ class PlatformerMini {
       this.collectibleImage.src = `${gameEnv.path}/images/projects/gamify/sword.png`; 
 
       this.playerImage = new Image();
-      this.playerImage.src = `${gameEnv.path}/images/projects/gamify/sonic.png`; 
+      this.playerImage.src = `${gameEnv.path}/images/projects/gamifycopy/sonic.png`; 
 
       this.playerX = 50; 
       this.playerY = 600; 
